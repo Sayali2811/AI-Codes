@@ -31,7 +31,7 @@ pairs = [
     ], 
     [
         r"what is your name ?",
-        ["I am a bot created by Prajwal Jadhav. You can call me crazy!",]
+        ["I am a bot created by Sayali",]
     ],
     [
         r"how are you ?",
